@@ -1,4 +1,4 @@
-# My portafolio en React
+# Mi portafolio en React
 
 Esta aplicación tiene la intención de ser mi portafolio personal construida utilizando la libereria de React como base.
 
